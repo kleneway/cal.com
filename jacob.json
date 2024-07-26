@@ -11,7 +11,8 @@
     "types": "/src/types",
     "styles": "/src/styles",
     "tailwindConfig": "/apps/web/tailwind.config.js",
-    "staticAssets": "/apps/web/public"
+    "staticAssets": "/apps/web/public",
+    "tsConfig": "/apps/web/tsconfig.json",
   },
   "env": ""
 }
