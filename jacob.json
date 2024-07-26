@@ -1,0 +1,17 @@
+{
+  "language": "TypeScript",
+  "installCommand": "yarn",
+  "formatCommand": "",
+  "buildCommand": "yarn build",
+  "style": "Tailwind",
+  "iconSet": "Lucide",
+  "directories": {
+    "components": "/src/components",
+    "pages": "/app",
+    "types": "/src/types",
+    "styles": "/src/styles",
+    "tailwindConfig": "/apps/web/tailwind.config.js",
+    "staticAssets": "/apps/web/public"
+  },
+  "env": ""
+}
